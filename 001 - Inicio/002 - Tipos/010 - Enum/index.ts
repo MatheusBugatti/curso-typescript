@@ -14,6 +14,3 @@ if (pessoa.mesAniver === Mes.MAR) {
 }
 
 
-// console.log(Mes);
-
-
